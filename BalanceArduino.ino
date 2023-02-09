@@ -1,3 +1,5 @@
+// /https://www.youtube.com/watch?v=2rnczyBd3WU&list=PLx7UaV8EUtFtQuQrE8PauQGzYibOXQLo_&index=2
+
 /*
 PIN 2 -> D7 afficheur
 PIN 3 -> D6 afficheur
